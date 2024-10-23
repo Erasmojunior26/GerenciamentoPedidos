@@ -1,0 +1,82 @@
+﻿@model PedidoDeCompra.Models.Vendedor
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<div class="container mt-5">
+    <h1 class="text-center">Criar Vendedor</h1>
+    <h4 class="text-center">Preencha os detalhes abaixo</h4>
+    <hr />
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <form asp-action="Create">
+                <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+
+                <div class="form-group">
+                    <label asp-for="Nome" class="control-label">Nome</label>
+                    <div class="input-group mb-3">
+                        <span class="input-group-text"><i class="fas fa-user"></i></span>
+                        <input asp-for="Nome" class="form-control" placeholder="Seu nome" />
+                    </div>
+                    <span asp-validation-for="Nome" class="text-danger"></span>
+                </div>
+
+                <div class="form-group">
+                    <label asp-for="Email" class="control-label">E-mail</label>
+                    <div class="input-group mb-3">
+                        <span class="input-group-text"><i class="fas fa-envelope"></i></span>
+                        <input asp-for="Email" class="form-control" placeholder="Seu e-mail" />
+                    </div>
+                    <span asp-validation-for="Email" class="text-danger"></span>
+                </div>
+
+                <div class="form-group text-center">
+                    <input id="meuInput" class="btn btn-success btn-lg" data-toggle="modal" data-target="#ExemploModalCentralizado" value="Criar"/>
+
+                    <!-- Modal -->
+                    <div class="modal fade" id="ExemploModalCentralizado" tabindex="-1" role="dialog" aria-labelledby="TituloModalCentralizado" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-centered" role="document">
+                            <div class="modal-content">
+                                <div class="modal-header">
+                                    <h5 class="modal-title" id="TituloModalCentralizado">Confirmar Vendedor</h5>
+                                    <button type="button" class="close" data-dismiss="modal" aria-label="Fechar">
+                                        <span aria-hidden="true">&times;</span>
+                                    </button>
+                                </div>
+                                <div class="modal-body">
+                                    Você está prestes a criar um novo vendedor que poderá ser utilizado para o cadastro de novos pedidos, confirma a criação?
+                                </div>
+                                <div class="modal-footer">
+                                    <input type="button" class="btn btn-secondary" data-dismiss="modal" value="Fechar">
+                                    <input type="submit" class="btn btn-success btn-lg" value="Confirmar">
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+             
+            </form>
+
+
+        </div>
+    </div>
+
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <script>
+        $('#ExemploModalCentralizado').on('shown.bs.modal', function () {
+            $('#meuInput').trigger('focus')
+        })
+    </script>
+
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.3/umd/popper.min.js" integrity="sha384-ZMP7rVo3mIykV+2+9J3UJ46jBk0WLaUAdn689aCwoqbBJiSnjAK/l8WvCWPIPm49" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+}

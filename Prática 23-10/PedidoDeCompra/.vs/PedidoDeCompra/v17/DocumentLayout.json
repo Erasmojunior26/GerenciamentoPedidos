@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Erasmo\\Saep\\PedidoDeCompra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|e:\\erasmo\\saep\\pedidodecompra\\pedidodecompra\\views\\gerenciamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|solutionrelative:pedidodecompra\\views\\gerenciamento\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|e:\\erasmo\\saep\\pedidodecompra\\pedidodecompra\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|solutionrelative:pedidodecompra\\views\\produtos\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|e:\\erasmo\\saep\\pedidodecompra\\pedidodecompra\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|solutionrelative:pedidodecompra\\views\\produtos\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|e:\\erasmo\\saep\\pedidodecompra\\pedidodecompra\\views\\vendedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|solutionrelative:pedidodecompra\\views\\vendedores\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|e:\\erasmo\\saep\\pedidodecompra\\pedidodecompra\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|solutionrelative:pedidodecompra\\views\\produtos\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|e:\\erasmo\\saep\\pedidodecompra\\pedidodecompra\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|solutionrelative:pedidodecompra\\controllers\\produtoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|e:\\erasmo\\saep\\pedidodecompra\\pedidodecompra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D6B18F6F-6E82-43DC-B498-17AB5D5288CE}|PedidoDeCompra\\PedidoDeCompra.csproj|solutionrelative:pedidodecompra\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Views\\Produtos\\Create.cshtml",
+              "RelativeDocumentMoniker": "PedidoDeCompra\\Views\\Produtos\\Create.cshtml",
+              "ToolTip": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Views\\Produtos\\Create.cshtml",
+              "RelativeToolTip": "PedidoDeCompra\\Views\\Produtos\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T19:49:50.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Program.cs",
+              "RelativeDocumentMoniker": "PedidoDeCompra\\Program.cs",
+              "ToolTip": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Program.cs",
+              "RelativeToolTip": "PedidoDeCompra\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABwAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:45:39.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Views\\Produtos\\Edit.cshtml",
+              "RelativeDocumentMoniker": "PedidoDeCompra\\Views\\Produtos\\Edit.cshtml",
+              "ToolTip": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Views\\Produtos\\Edit.cshtml",
+              "RelativeToolTip": "PedidoDeCompra\\Views\\Produtos\\Edit.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAD4AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T19:43:42.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Views\\Produtos\\Delete.cshtml",
+              "RelativeDocumentMoniker": "PedidoDeCompra\\Views\\Produtos\\Delete.cshtml",
+              "ToolTip": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Views\\Produtos\\Delete.cshtml",
+              "RelativeToolTip": "PedidoDeCompra\\Views\\Produtos\\Delete.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T19:29:32.971Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProdutosController.cs",
+              "DocumentMoniker": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Controllers\\ProdutosController.cs",
+              "RelativeDocumentMoniker": "PedidoDeCompra\\Controllers\\ProdutosController.cs",
+              "ToolTip": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Controllers\\ProdutosController.cs",
+              "RelativeToolTip": "PedidoDeCompra\\Controllers\\ProdutosController.cs",
+              "ViewState": "AQIAAE4AAAAAAAAAAAAmwFMAAABbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T19:21:14.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Views\\Gerenciamento\\Index.cshtml",
+              "RelativeDocumentMoniker": "PedidoDeCompra\\Views\\Gerenciamento\\Index.cshtml",
+              "ToolTip": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Views\\Gerenciamento\\Index.cshtml",
+              "RelativeToolTip": "PedidoDeCompra\\Views\\Gerenciamento\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T19:17:42.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Views\\Vendedores\\Create.cshtml",
+              "RelativeDocumentMoniker": "PedidoDeCompra\\Views\\Vendedores\\Create.cshtml",
+              "ToolTip": "E:\\Erasmo\\Saep\\PedidoDeCompra\\PedidoDeCompra\\Views\\Vendedores\\Create.cshtml",
+              "RelativeToolTip": "PedidoDeCompra\\Views\\Vendedores\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-23T17:25:31.797Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
